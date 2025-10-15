@@ -1,4 +1,6 @@
-## Setup Project Via VITE: 
+#Project Setup 
+
+### Setup Via VITE: 
 ```
-Hello 
+npm create vite@latest my-vue-app -- --template react
 ```
